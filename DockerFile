@@ -1,0 +1,2 @@
+from nginx
+apt-get -y update && apt-get -y install
